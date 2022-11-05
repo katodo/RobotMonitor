@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "picoled.hpp": "c",
+        "rmw_microros.h": "c"
+    }
+}
